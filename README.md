@@ -1,5 +1,7 @@
 # AWS Bedrock Integration With Generative AI
 
+Demo Video Link :- https://drive.google.com/file/d/1SGqrKZQQpRpemdkj5zfNqIH4CDcV85GO/view?usp=sharing
+
 ## Overview
 This project demonstrates how to interact with AWS Bedrock to generate text using AI models like Anthropic's Claude v2 and Meta's Llama 3. The scripts use `boto3` to send prompts and retrieve responses from these models.
 
